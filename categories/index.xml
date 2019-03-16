@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Phylogenetrips</title>
+    <link>https://thibaultlatrille.github.io/categories/</link>
+    <description>Recent content in Categories on Phylogenetrips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="https://thibaultlatrille.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population Genetics</title>
+      <link>https://thibaultlatrille.github.io/categories/population-genetics/</link>
+      <pubDate>Mon, 23 Apr 2018 17:24:58 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/categories/population-genetics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

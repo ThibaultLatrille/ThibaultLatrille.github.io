@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Phylogenetrips</title>
+    <link>https://thibaultlatrille.github.io/home/</link>
+    <description>Recent content in Homes on Phylogenetrips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://thibaultlatrille.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://thibaultlatrille.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://thibaultlatrille.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog Posts</title>
+      <link>https://thibaultlatrille.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://thibaultlatrille.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thibaultlatrille.github.io/home/controversciences/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/controversciences/</guid>
+      <description> ControverSciences controversciences.org is a web site publishing collaboratively written synthesis of controversed topics, based on meta-analysis of scientific papers.
+The website interface has been written in french, but if you are interested in hosting the website in another language, just let me know. The english translation of the interface is not complete, but already started.
+The source code, written using Ruby on Rails is under MIT license:
+https://github.com/ThibaultLatrille/ControverSciences </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thibaultlatrille.github.io/home/potageome/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/potageome/</guid>
+      <description>MonPotager MonPotager.org is an interactive website to plan a vegetable garden taking into account all positive and negative interactions between plants. The parasites attacking your vegetables can be held off thanks to repellent plants and auxiliary organisms.
+The project, written in french, was initiated by Thibault Lorin. The dataset used in the application is available and open to suggestions, feel free to bring your knowledge :
+ Species dataset Interactions dataset  The source code, written using a Python and D3.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://thibaultlatrille.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://thibaultlatrille.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://thibaultlatrille.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://thibaultlatrille.github.io/home/slides/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thibaultlatrille.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/home/about/</guid>
+      <description> Biography </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recombination on Phylogenetrips</title>
+    <link>https://thibaultlatrille.github.io/tags/recombination/</link>
+    <description>Recent content in Recombination on Phylogenetrips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 23 Apr 2018 17:24:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://thibaultlatrille.github.io/tags/recombination/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Red Queen dynamics</title>
+      <link>https://thibaultlatrille.github.io/post/red-queen/</link>
+      <pubDate>Mon, 23 Apr 2018 17:24:58 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/post/red-queen/</guid>
+      <description>In this post, we will investigate how to model an evolutionary arm races, and more generally how to model a Red Queen dynamic at the population level. Diving into the population, for a specific locus in the genome, we will thus follow the life and death of alleles that are entangled into an arm race. In such arm race, the more time an allele is alive in a population, the more likely it is to die because the arm race left him lag behind, favoring new alleles that are more adapted to the environment.</description>
+    </item>
+    
+  </channel>
+</rss>

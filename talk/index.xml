@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Phylogenetrips</title>
+    <link>https://thibaultlatrille.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Phylogenetrips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://thibaultlatrille.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Framework for Inferring Fitness Landscapes
+of Patient-Derived Viruses Using
+Quasispecies Theory
+</title>
+      <link>https://thibaultlatrille.github.io/talk/sage-quasispecies/</link>
+      <pubDate>Wed, 06 Mar 2019 13:00:00 +0100</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/sage-quasispecies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary dynamics on graphs
+</title>
+      <link>https://thibaultlatrille.github.io/talk/graph-dynamic/</link>
+      <pubDate>Fri, 01 Mar 2019 13:00:00 +0100</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/graph-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference of recombination maps from
+a single pair of genomes and its
+application to archaic samples.
+</title>
+      <link>https://thibaultlatrille.github.io/talk/rage-recombination-maps/</link>
+      <pubDate>Fri, 25 Jan 2019 13:00:00 +0100</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/rage-recombination-maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Red-Queen model of recombination hotspots evolution
+</title>
+      <link>https://thibaultlatrille.github.io/talk/eseb-2018/</link>
+      <pubDate>Sun, 19 Aug 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/eseb-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untangling mutation and selection
+in protein-coding sequences.
+</title>
+      <link>https://thibaultlatrille.github.io/talk/rage-mutational-bias/</link>
+      <pubDate>Wed, 16 May 2018 13:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/rage-mutational-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating protein evolution
+using thermodynamics principles
+</title>
+      <link>https://thibaultlatrille.github.io/talk/protein-evolution/</link>
+      <pubDate>Fri, 30 Mar 2018 13:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/protein-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of mean-field theory in red-queen dynamics
+</title>
+      <link>https://thibaultlatrille.github.io/talk/aiem-2017/</link>
+      <pubDate>Wed, 08 Nov 2017 13:00:00 +0100</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/aiem-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Negative selection in humans and
+fruit flies involves synergistic epistasis
+</title>
+      <link>https://thibaultlatrille.github.io/talk/rage-epistasis/</link>
+      <pubDate>Fri, 05 May 2017 13:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/rage-epistasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariages, infidélités et divorces entre la science et le numérique.
+</title>
+      <link>https://thibaultlatrille.github.io/talk/blend-web-mix/</link>
+      <pubDate>Wed, 02 Nov 2016 13:00:00 +0100</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/blend-web-mix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust estimation of phylogenetic diversity: steer clear of rare species.
+</title>
+      <link>https://thibaultlatrille.github.io/talk/beg/</link>
+      <pubDate>Tue, 27 May 2014 13:00:00 +0200</pubDate>
+      
+      <guid>https://thibaultlatrille.github.io/talk/beg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

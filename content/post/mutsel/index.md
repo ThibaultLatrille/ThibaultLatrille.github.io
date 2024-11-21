@@ -39,9 +39,10 @@ These models assume the protein-coding sequences are at mutation-selection balan
 Mathematically, the rate of non-synonymous substitution from codon $a$ to codon $b$ $(q_{a \mapsto b})$ at each site of the sequence is equal to the rate of mutation of the underlying nucleotide change ($\mu_{a \mapsto b}$) multiplied by the scaled probability of mutation fixation ($P_{a \mapsto b}$).
 The probability of fixation depends on the difference between the scaled fitness of the amino acid encoded by the mutated codon ($F_b$) and the amino acid encoded by the original codon ($F_a$) at each site:
 ![equations](/post/mutsel/equations.png)
+If you want to delve deeper into these equations and their consequences, a more formal derivation of the mutation-selection model is available in [my PhD introduction](/post/mutsel/intro-PhD.pdf).
 
-Fitting the mutation-selection model on a multi-species sequence alignment leads to an estimation of the gene-wide $4 \times 4$ nucleotide mutation rate matrix ($\bm{\mu}$) as well as the $20$ amino-acid fitness landscape ($\bm{F^{(i)}}$) at each site $i$.
-From a technical perspective, the Bayesian estimation is a two-step procedure.
+From a methodological perspective, fitting the mutation-selection model on a multi-species sequence alignment leads to an estimation of the gene-wide $4 \times 4$ nucleotide mutation rate matrix ($\bm{\mu}$) as well as the $20$ amino-acid fitness landscape ($\bm{F^{(i)}}$) at each site $i$.
+In [our implementation](https://github.com/ThibaultLatrille/bayescode), the Bayesian estimation is a two-step procedure.
 The first step is a data augmentation of the alignment, consisting in sampling a detailed substitution history along the phylogenetic tree for each site, given the current value of the model parameters.
 In the second step, the parameters of the model can then be directly updated by a Gibbs sampling procedure, conditional on the current substitution history.
 Alternating between these two sampling steps yields a Markov chain Monte-Carlo (MCMC) procedure whose equilibrium distribution is the posterior probability density of interest.

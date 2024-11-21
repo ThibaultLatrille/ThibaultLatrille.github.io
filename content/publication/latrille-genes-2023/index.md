@@ -42,12 +42,12 @@ show_date: false
 links:
 - name: DOI
   url: https://doi.org/10.1073/pnas.2214977120
-url_pdf: publication/genes-2023/paper.pdf
+url_pdf: publication/latrille-genes-2023/paper.pdf
 url_code: 'https://github.com/ThibaultLatrille/AdaptaPop'
 url_dataset: 'https://doi.org/10.5281/zenodo.7543458'
 url_poster: ''
 url_project: ''
-url_slides: '/publication/genes-2023/slides.pdf'
+url_slides: '/publication/latrille-genes-2023/slides.pdf'
 url_source: 'https://github.com/ThibaultLatrille/AdaptaPop/blob/master/manuscript/main-PNAS.tex'
 url_video: ''
 

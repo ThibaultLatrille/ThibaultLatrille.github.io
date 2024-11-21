@@ -23,13 +23,14 @@ authors:
   - admin
 ---
 
-## Introduction
 Mutation-Selection codon model, what are they and what are their use cases?
-From an input/output perspective, they take as input a phylogenetic tree and a protein-coding DNA alignment, they output site-specific fitness profiles, i.e. the fitness of each amino-acids at each site:
+
+## Introduction
+From an input/output perspective, mutation-Selection codon model take as input a phylogenetic tree and a protein-coding DNA alignment, they output site-specific fitness profiles, i.e. the fitness of each amino-acids at each site:
 ![mutsel](/post/mutsel/mutsel.png)
 
 They are codon models, meaning they contrast non-synonymous and synonymous substitution rates along the phylogeny to estimate the strength of selection exercised on proteins. 
-Mathematically based on population-genetic formalism, in these models the trajectory of alleles inside a population is collapsed into a single point substitution process:
+Mathematically, they are based on population-genetic formalism, by collapsing the trajectory of alleles inside a population into a single point substitution process:
 ![substitutions](/post/mutsel/substitutions.png)
 
 
@@ -91,4 +92,4 @@ On the other hand, the range of variation in $N_e$ inferred across species is su
 This last point suggests that some of the assumptions of the model, in particular concerning the assumed absence of epistatic interactions between sites, are potentially problematic.
 
 ## Software
-Bayesian implementation and instruction/documentation of a mutation-selection framework available at [https://github.com/ThibaultLatrille/bayescode](https://github.com/ThibaultLatrille/bayescode), with a conda package also available (*conda install \-c conda-forge \-c bioconda bayescode*).
+A Bayesian implementation and instruction/documentation of a mutation-selection framework available at [https://github.com/ThibaultLatrille/bayescode](https://github.com/ThibaultLatrille/bayescode), with a conda package also available (*conda install \-c conda-forge \-c bioconda bayescode*).

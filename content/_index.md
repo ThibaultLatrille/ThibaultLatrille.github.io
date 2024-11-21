@@ -73,7 +73,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Featured publications
+      title: Non-random sample of publications
       count: 6
       filters:
         folders:

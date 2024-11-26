@@ -1,0 +1,9 @@
+.DS_Store
+.hugo_build.lock
+go.sum
+hugo_stats.json
+.idea
+Legacy.phylogenetrips
+Legacy.theme-academic-cv-main
+public
+resources

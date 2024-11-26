@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Research notes
 view: article-grid
 ---

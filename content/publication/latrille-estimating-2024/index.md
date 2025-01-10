@@ -10,7 +10,7 @@ date: '2024-04-01'
 publishDate: '2024-11-20T20:25:54.817906Z'
 publication_types:
 - manuscript
-publication: '*bioRxiv*'
+publication: '*PLoS Genetics*'
 
 abstract: Mutations can be beneficial by bringing innovation to their bearer, allowing
   them to adapt to environmental change. These mutations are typically unpredictable
@@ -47,8 +47,8 @@ share: false
 show_date: false
 links:
 - name: DOI
-  url: https://doi.org/10.1101/2023.05.03.538864
-url_pdf: ''
+  url: https://doi.org/10.1371/journal.pgen.1011536
+url_pdf: '/publication/latrille-estimating-2024/paper.pdf'
 url_code: 'https://github.com/ThibaultLatrille/SelCoeff'
 url_dataset: 'https://doi.org/10.5281/zenodo.7878954'
 url_poster: ''

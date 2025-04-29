@@ -3,7 +3,7 @@ title: MonPotager
 date: 2024-11-21
 share: false
 show_date: false
-external_link: https://monpotagerorg.herokuapp.com/
+external_link: /MonPotager/
 tags:
   - Website
   - DataViz

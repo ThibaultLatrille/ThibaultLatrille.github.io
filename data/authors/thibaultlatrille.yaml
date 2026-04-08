@@ -1,0 +1,28 @@
+schema: hugoblox/author/v1
+slug: thibaultlatrille
+is_owner: true
+name:
+  display: Thibault Latrille
+  given: Thibault
+  family: Latrille
+status:
+  icon: ""
+role: Post-doc
+bio: "Reconciling population genetics and phylogenetics, by confronting or integrating them. This pursuit involves theoretical modeling, methodological developments and empirical studies."
+
+affiliations:
+  - name: Université de Lausanne
+  - url: https://www.unil.ch/dbc/en/home.html
+
+links:
+  - icon: at-symbol
+    url: 'mailto:thibault.latrille@ens-lyon.org'
+    label: E-mail Me
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/phylogenetrips.bsky.social
+  - icon: brands/github
+    url: https://github.com/ThibaultLatrille
+  - icon: academicons/google-scholar
+    url: https://scholar.google.fr/citations?user=6HlrDNgAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-9643-4668
